@@ -1,4 +1,4 @@
-# Название проекта: Слияние списков на Python
+# Тема проекта: Слияние списков на Python
 # Автор: Salizhanov Mirbek
 
 def merge_and_show():
